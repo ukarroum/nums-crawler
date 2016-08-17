@@ -177,8 +177,8 @@ if __name__ == "__main__":
 
     nums = set(souk_ma_crawler(1, 500))
 
-    #for num in nums:
-        #print(num)
+    # for num in nums:
+    # print(num)
 
     save_file(nums, "out2")
 
